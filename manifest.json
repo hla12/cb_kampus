@@ -1,0 +1,28 @@
+{
+	"name": "Cb Kampus Malang",
+	"short_name": "CBMalang",
+	"description": "daftar club cb kampus malang",
+	"orientation": "portrait",
+	"icons": [
+		{
+			"src": "img/144.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		},
+		{
+			"src": "img/192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "img/192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+		
+],
+	"start_url": "#",
+	"background_color": "white",
+	"display" : "standalone",
+	"theme_color": "white"
+}
